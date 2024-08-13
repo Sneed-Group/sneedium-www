@@ -9,6 +9,8 @@ A basic web browser in Electron. ***With a functioning adblocker and privacy red
 
 ## Testing, compiling, and creation notes
 
+First things first [here's the repo.](https://github.com/Sneed-Group/sneedium)
+
 To clone and run this repository you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash

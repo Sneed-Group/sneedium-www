@@ -3,7 +3,7 @@
 
 A basic web browser in Electron. ***With a functioning adblocker and privacy redirection technologies!***
 
-[![Download latest build.](https://github.com/Sneed-Group/sneedium/blob/master/download.png?raw=true)](https://github.com/Sneed-Group/sneedium/releases/latest)
+[![Download latest build.](https://github.com/Sneed-Group/sneedium/blob/master/download.png?raw=true)](https://github.com/Sneed-Group/sneedium/releases)
 
 ***
 
